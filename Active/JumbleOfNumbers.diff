@@ -66,6 +66,8 @@ Net Score:  +    10,              Score:   13.75
 -   12, produced four Cursors 
 Net Score:  - 13.75,              Score:       0
 
+JumbleOfNumbers
+```diff
 5/24/18
 +   2.25, daily income from nine Cursors
 +   24, sold six Cursors to Jeskai Nahiri
@@ -119,6 +121,9 @@ Net nc:     +     0,                 nc:    2000
 
 6/2/18
 +   4.25, daily income from seventeen Cursors
-Net Score:  +  4.25,              Score:  108.25
++   68, destruction of cursors by the Kind BSOD
++   .75, round up from the Kind BSOD
+Net Score:  +    73,              Score:     177
 Net nc:     +     0,                 nc:    2000
-
+```
+-
