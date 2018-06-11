@@ -6,12 +6,12 @@ Net Score:  +     4,              Score:       4
 -   4, purchased one Cursor from NotAJumbleOfNumbers
 Net Score:  -     4,              Score:       0
 
-nefolaC4
-```diff
 5/23/18
 +   .25, daily income from one Cursor
 Net Score:  +   .25,              Score:     .25
 
+nefolaC4
+```diff
 5/24/18
 +   .25, daily income from one Cursor
 Net Score:  +   .25,              Score:      .5 
@@ -72,6 +72,11 @@ Net nc:     +     0,                 nc:    2000
 +   1, destruction of cursor by the Kind BSOD
 +   .75, rounded up by the Kind BSOD
 Net Score:  +     2,              Score:     107
+Net nc:     +     0,                 nc:    2000
+
+6/9/18
++   3, earned from proposal
+Net Score:  +     3,              Score:     110
 Net nc:     +     0,                 nc:    2000
 ```
 -
